@@ -1,0 +1,6 @@
+data-directory: 'glucose.json'
+conditions_directory: '../10k_synthea_covid19_csv/conditions.csv'
+patients_directory: '../10k_synthea_covid19_csv/patients.csv'
+observations_directory: '../10k_synthea_covid19_csv/observations.csv'
+careplans_directory: '../10k_synthea_covid19_csv/careplans.csv'
+encounters_directory: '../10k_synthea_covid19_csv/encounters.csv'
